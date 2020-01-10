@@ -1,0 +1,5 @@
+name: Basic Form
+type: module
+description: Basic Form
+package: demo
+core: 8.x
